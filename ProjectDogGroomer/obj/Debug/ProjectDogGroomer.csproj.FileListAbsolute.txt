@@ -1,0 +1,9 @@
+c:\users\leigh ann\source\repos\ProjectDogGroomer\ProjectDogGroomer\obj\Debug\ProjectDogGroomer.csprojResolveAssemblyReference.cache
+c:\users\leigh ann\source\repos\ProjectDogGroomer\ProjectDogGroomer\obj\Debug\ProjectDogGroomer.Form1.resources
+c:\users\leigh ann\source\repos\ProjectDogGroomer\ProjectDogGroomer\obj\Debug\ProjectDogGroomer.Properties.Resources.resources
+c:\users\leigh ann\source\repos\ProjectDogGroomer\ProjectDogGroomer\obj\Debug\ProjectDogGroomer.csproj.GenerateResource.Cache
+c:\users\leigh ann\source\repos\ProjectDogGroomer\ProjectDogGroomer\obj\Debug\ProjectDogGroomer.csproj.CoreCompileInputs.cache
+c:\users\leigh ann\source\repos\ProjectDogGroomer\ProjectDogGroomer\bin\Debug\ProjectDogGroomer.exe
+c:\users\leigh ann\source\repos\ProjectDogGroomer\ProjectDogGroomer\bin\Debug\ProjectDogGroomer.pdb
+c:\users\leigh ann\source\repos\ProjectDogGroomer\ProjectDogGroomer\obj\Debug\ProjectDogGroomer.exe
+c:\users\leigh ann\source\repos\ProjectDogGroomer\ProjectDogGroomer\obj\Debug\ProjectDogGroomer.pdb
