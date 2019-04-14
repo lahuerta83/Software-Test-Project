@@ -1,0 +1,5 @@
+C:\Users\leighann.huerta\Desktop\Software-Test-Project\CodedUITestDogGroomer\bin\Debug\CodedUITestDogGroomer.dll
+C:\Users\leighann.huerta\Desktop\Software-Test-Project\CodedUITestDogGroomer\bin\Debug\CodedUITestDogGroomer.pdb
+C:\Users\leighann.huerta\Desktop\Software-Test-Project\CodedUITestDogGroomer\obj\Debug\CodedUITestDogGroomer.csprojResolveAssemblyReference.cache
+C:\Users\leighann.huerta\Desktop\Software-Test-Project\CodedUITestDogGroomer\obj\Debug\CodedUITestDogGroomer.dll
+C:\Users\leighann.huerta\Desktop\Software-Test-Project\CodedUITestDogGroomer\obj\Debug\CodedUITestDogGroomer.pdb
