@@ -1,0 +1,13 @@
+C:\Users\leighann.huerta\Desktop\Software-Test-Project\ProjectDogGroomer.Tests\bin\Release\ProjectDogGroomer.Tests.dll
+C:\Users\leighann.huerta\Desktop\Software-Test-Project\ProjectDogGroomer.Tests\bin\Release\ProjectDogGroomer.Tests.pdb
+C:\Users\leighann.huerta\Desktop\Software-Test-Project\ProjectDogGroomer.Tests\bin\Release\Microsoft.Pex.Framework.dll
+C:\Users\leighann.huerta\Desktop\Software-Test-Project\ProjectDogGroomer.Tests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\leighann.huerta\Desktop\Software-Test-Project\ProjectDogGroomer.Tests\bin\Release\ProjectDogGroomer.exe
+C:\Users\leighann.huerta\Desktop\Software-Test-Project\ProjectDogGroomer.Tests\bin\Release\Microsoft.ExtendedReflection.Reasoning.dll
+C:\Users\leighann.huerta\Desktop\Software-Test-Project\ProjectDogGroomer.Tests\bin\Release\Microsoft.ExtendedReflection.dll
+C:\Users\leighann.huerta\Desktop\Software-Test-Project\ProjectDogGroomer.Tests\bin\Release\ProjectDogGroomer.pdb
+C:\Users\leighann.huerta\Desktop\Software-Test-Project\ProjectDogGroomer.Tests\bin\Release\Microsoft.Pex.Framework.xml
+C:\Users\leighann.huerta\Desktop\Software-Test-Project\ProjectDogGroomer.Tests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\leighann.huerta\Desktop\Software-Test-Project\ProjectDogGroomer.Tests\obj\Release\ProjectDogGroomer.Tests.csprojResolveAssemblyReference.cache
+C:\Users\leighann.huerta\Desktop\Software-Test-Project\ProjectDogGroomer.Tests\obj\Release\ProjectDogGroomer.Tests.dll
+C:\Users\leighann.huerta\Desktop\Software-Test-Project\ProjectDogGroomer.Tests\obj\Release\ProjectDogGroomer.Tests.pdb
